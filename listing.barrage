@@ -1,0 +1,37 @@
+# c
+
+> A short-named public repo. This wrap points back to the source files.
+
+## Purpose
+Give a plain-language door to fitzyracing1/c so the one-letter name is not a dead end.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone only to explain the idea.
+3. Send the reader back to the source for any run.
+
+## Key ideas
+- Short name (the repo is just c)
+- Wrap (this page explains; it does not replace)
+
+## The actual code
+```
+# source: fitzyracing1/c
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/c for the files”
+
+## Decisions the program makes
+- If a reader needs the files → send them to the source
+- If a reader needs the idea → stay on this listing
+
+## What a person would notice
+A named wrap on a one-letter door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open fitzyracing1/c.
